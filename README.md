@@ -1,4 +1,4 @@
-# Minimal Shared memory example
+# Minimal Shared Memory Example
 
 ## Install
 
@@ -7,12 +7,15 @@
 ## Test
 
 - Open a terminal in this folder and execute `writer`
+
   `./writer`
 
 - Open another terminal in this folder and execute `reader`
+
   `./reader`
 
 You should be able to see that both process print the same number.
+
 Additionally, you can execute multiple `reader`s.
 
 ## Credits
